@@ -591,4 +591,5 @@ CodeGrade! You now know how to work on and submit assignments going forward:
 - Submit your assignment through CodeGrade by selecting your GitHub account,
   then connecting the appropriate repo.
 
-Equipped with this knowledge, you are now ready to tackle greater challenges!
+Equipped with this knowledge, you are now ready to tackle greater 
+npm install
